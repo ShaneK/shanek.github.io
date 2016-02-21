@@ -1,0 +1,11 @@
+<html>
+<head>
+	<title>Shane's test page</title>
+
+
+</head>
+<body ng-app="shaneki.ng" ng-controller="MainController as mainCtrl">
+	<div ng-class="{'enlarge': mainCtrl.enlarge}">Hello world</div>
+
+</body>
+</html>

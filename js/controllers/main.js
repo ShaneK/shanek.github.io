@@ -3,15 +3,11 @@
   angular.module('shaneki.ng')
     .controller('MainController', MainController);
 
-  MainController.$inject = ['$interval'];
+  MainController.$inject = [];
 
-  function MainController($interval) {
+  function MainController() {
     var self = this;
 
-    self.enlarge = false;
-
-    $interval(function() {
-      self.enlarge = !self.enlarge;
-    }, 1000);
+    self.data = '1';
   }
 })();
