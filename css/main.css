@@ -1,11 +1,5 @@
-div {
-	transition: all ease 1s;
-	font-size: 11px;
-	white-space: nowrap;
-}
-
-div.enlarge {
-	font-size: 200px;
-	color: blue;
-	padding-left: calc(100% - 1000px);
+.header-overlay {
+	width: 100%;
+	height: 100%;
+	background-color: black;
 }
