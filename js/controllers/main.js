@@ -8,6 +8,9 @@
   function MainController() {
     var self = this;
 
-    self.data = '1';
+    var headerImages = ['lake', 'lake2', 'lake3', 'mountain'];
+    var index = Math.floor(Math.random() * headerImages.length);
+    console.log("INDEX:", index);
+    self.headerImage = 'url("img/' + headerImages[index] + '.jpg")';
   }
 })();
