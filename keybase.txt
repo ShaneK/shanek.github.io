@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/shanetheking
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://shanethe.dev
+  * I am shanetheking (https://keybase.io/shanetheking) on keybase.
+  * I have a public key ASBHeCYdEj1zAqvViC2DW95HQrV4M6NTrImQN9RG69orGgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201f13490ad20d05b8da5083853f6a12550f89a0f0cb2492baefb33d662c72ae250a",
+      "host": "keybase.io",
+      "kid": "01204778261d123d7302abd5882d835bde4742b57833a353ac899037d446ebda2b1a0a",
+      "uid": "21ee50fc7299af530274a46d015a1619",
+      "username": "shanetheking"
+    },
+    "merkle_root": {
+      "ctime": 1568211563,
+      "hash": "e64683da2606b40e2995c9f02e58430e4a375b6d44dc85edb3169566b35f9208ecc4c523f2400f7524b93d0240e9d6f769d841a959fa9850bd3809a3ec1d1d38",
+      "hash_meta": "a8781614c558bd3c2ebd0f01dcf1087aff7ddaa097b1708a99e0d944ee2bdcab",
+      "seqno": 6727487
+    },
+    "service": {
+      "entropy": "j+XYbzI3Qix6LXnnaCs8noib",
+      "hostname": "shanethe.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568211583,
+  "expire_in": 504576000,
+  "prev": "2b7026c2434679ec39625dbb41290b76ae2e5455da9cd1e9e63ce11d4d2b6872",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgR3gmHRI9cwKr1Ygtg1veR0K1eDOjU6yJkDfURuvaKxoKp3BheWxvYWTESpcCG8QgK3AmwkNGeew5Yl27QSkLdq4uVFXanNHp5jzhHU0raHLEIMLU2R5vnIL+nh2SYrqeCbxfmlC/izekKrE0Q/6OIPqbAgHCo3NpZ8RAhzTH3c1OVaA91vBVY35zKDPfJzAv6n2HvlSc7TdzeApkg7Fz+tiXdvsX40qu1Fpfdpyy9HhO5WrO0bMUxZdyCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICjwbC8CGsRfBbo8ng/w7wSB7EMj+xTIIh9boa3vLh5Eo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shanetheking
+
+==================================================================
